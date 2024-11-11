@@ -1,0 +1,6 @@
+@media (min-width: 1200px) {
+    .col-lg-5-cols {
+      flex: 0 0 20%;
+      max-width: 20%;
+    }
+  }
