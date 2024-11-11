@@ -1,8 +1,34 @@
-# React + Vite
+# MovieApp
+===========================================================
+There's something to do before u start.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## instalation
+-----------------------------------------------------------
+1. Initiate project
+```bash
+npm create vite@latest MovieApp -- --template react
+```
+```bash
+cd MovieApp
+```
+```bash
+npm install
+```
 
-Currently, two official plugins are available:
+2. Install Bootstrap for style
+```bash
+npm i bootstrap@5.3.3
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3. Install Axios for API
+```bash
+npm install axios
+```
+
+4. Install Redux
+```bash
+npm install redux react-redux
+```
+```bash
+npm install @reduxjs/toolkit
+```
