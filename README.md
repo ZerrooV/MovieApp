@@ -14,17 +14,17 @@ cd MovieApp
 ```bash
 npm install
 ```
-
+------------------------------------------------------------
 2. Install Bootstrap for style
 ```bash
 npm i bootstrap@5.3.3
 ```
-
+------------------------------------------------------------
 3. Install Axios for API
 ```bash
 npm install axios
 ```
-
+------------------------------------------------------------
 4. Install Redux
 ```bash
 npm install redux react-redux
@@ -32,3 +32,4 @@ npm install redux react-redux
 ```bash
 npm install @reduxjs/toolkit
 ```
+------------------------------------------------------------
